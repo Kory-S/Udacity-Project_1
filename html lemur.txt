@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+	<div class="card_size border_style">
+		<!-- your favorite animal's name goes here -->
+		<h3 class="animal_name">Lemur</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="./project_1_lemurs.jpeg" alt="Lemur">
+		<div class=" border_style text_information">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="interesting_fact">Lemurs spend most of their lives in trees and are mostly nocturnal.</p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span class="label">Location</span>: Madagascar</li>
+				<li><span class="label">Diet</span>: fruits and berries</li>
+				<li><span class="label">Average weight</span>: 6 pounds (3 kilograms)</li>
+				<li><span class="label">Lifespan</span>: 18 years</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Write a brief description about your favorite animal...</p>
+		</div>
+	</div>
+
+	<img src="./boxes.png" alt="boxes">
+</body>
+</html>
